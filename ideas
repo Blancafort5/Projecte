@@ -1,0 +1,1 @@
+Al dar de alta un juego, se tiene que crear un foro para ese juego. Para eso se tiene que crear un trigger que añada un registro en la tabla de foros con el id del juego que se acabe de dar de alta.
